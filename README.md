@@ -5,3 +5,5 @@ NPM: 2406365364
 Class: PBP KKI
 
 Hobby: Playing musical instruments
+
+Major: Computer Science Information Systems
